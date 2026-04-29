@@ -1,0 +1,9 @@
+FQC-ERP-Agent/
+├── app.py               # 核心程序文件
+├── requirements.txt     # 依赖包列表
+├── .gitignore           # Git 忽略配置
+└── README.md            # 项目说明文档
+streamlit==1.32.0
+langchain==0.1.13
+langchain-openai==0.1.1
+python-dotenv==1.0.1
